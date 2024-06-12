@@ -51,7 +51,7 @@ langchain-community==0.0.16
 langchain-core==0.1.50
 langchain-openai==0.1.6
 langcodes==3.4.0
-langsmith==0.1.54
+langsmith==0.0.83
 language_data==1.2.0
 lazy_loader==0.4
 librosa==0.10.2.post1
